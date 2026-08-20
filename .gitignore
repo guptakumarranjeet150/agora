@@ -1,6 +1,4 @@
 node_modules
-.env
-.env.local
 .next
 dist
 
@@ -29,3 +27,4 @@ storybook-static
 *.log
 **/*.log
 
+config.bat
