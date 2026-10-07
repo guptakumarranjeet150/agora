@@ -1,6 +1,4 @@
 node_modules
-.env
-.env.local
 .next
 dist
 
@@ -33,3 +31,4 @@ storybook-static
 
 # Local PR description files (for reference only, not part of the repo)
 pr-*.md
+config.bat
